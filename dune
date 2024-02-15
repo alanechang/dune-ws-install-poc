@@ -1,0 +1,14 @@
+
+(install
+  (files
+    file_a
+  )
+  (section bin)
+  (package package_a))
+
+(install
+  (files
+    file_b
+  )
+  (section bin)
+  (package package_b))
